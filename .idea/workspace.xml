@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3c5c2f5-c25a-4067-95e6-ba141056c0e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DefensiveCodingInJava" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DefensiveCodingInJava" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DefensiveCodingInJava" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fEv2HutmiPKlSRyerHVM90gS8R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chinn\IdeaProjects\DefensiveCodingInJava" />
+      <recent name="C:\Users\chinn\IdeaProjects\DefensiveCodingInJava\ExternalLibraries\src\main\java\com\edu" />
+      <recent name="C:\Users\chinn\IdeaProjects\DefensiveCodingInJava\ExternalLibraries\src\test\java\com\edu\test" />
+      <recent name="C:\Users\chinn\IdeaProjects\DefensiveCodingInJava\src\main\java\com\edu" />
+      <recent name="C:\Users\chinn\IdeaProjects\DefensiveCodingInJava\src\test\java\com\edu\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.DefensiveCodingInJava [clean]">
+    <configuration name="DefensiveCodingInJava [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DefensiveCodingInJava [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Commons_lang3Test.givenTwoFractionInstances_whenCalledadd_thenCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DefensiveCodingInJava.ExternalLibraries.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.test.Commons_lang3Test" />
+      <option name="METHOD_NAME" value="givenTwoFractionInstances_whenCalledadd_thenCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Commons_lang3Test.whenCalledtoString_thenCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DefensiveCodingInJava.ExternalLibraries.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.test.Commons_lang3Test" />
+      <option name="METHOD_NAME" value="whenCalledtoString_thenCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuavaExTest.testPadStart_somePadding" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DefensiveCodingInJava.ExternalLibraries.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.test.GuavaExTest" />
+      <option name="METHOD_NAME" value="testPadStart_somePadding" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.DefensiveCodingInJava [clean]" />
+      <item itemvalue="Gradle.DefensiveCodingInJava [build]" />
+      <item itemvalue="JUnit.Commons_lang3Test.whenCalledtoString_thenCorrect" />
+      <item itemvalue="JUnit.Commons_lang3Test.givenTwoFractionInstances_whenCalledadd_thenCorrect" />
+      <item itemvalue="JUnit.GuavaExTest.testPadStart_somePadding" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DefensiveCodingInJava [build]" />
+        <item itemvalue="Gradle.DefensiveCodingInJava [clean]" />
+        <item itemvalue="JUnit.GuavaExTest.testPadStart_somePadding" />
+        <item itemvalue="JUnit.Commons_lang3Test.givenTwoFractionInstances_whenCalledadd_thenCorrect" />
+        <item itemvalue="JUnit.Commons_lang3Test.whenCalledtoString_thenCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c5c2f5-c25a-4067-95e6-ba141056c0e4" name="Default Changelist" comment="" />
+      <created>1595795857626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595795857626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1595888655212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1595888655212" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595807405214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1595807405214" />
+    <state width="1323" height="354" key="GridCell.Tab.0.bottom" timestamp="1595971559324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="354" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595971559324" />
+    <state width="1323" height="354" key="GridCell.Tab.0.center" timestamp="1595971559324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="354" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595971559324" />
+    <state width="1323" height="354" key="GridCell.Tab.0.left" timestamp="1595971559324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="354" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595971559324" />
+    <state width="1323" height="354" key="GridCell.Tab.0.right" timestamp="1595971559324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="354" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595971559324" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1595798298683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595798298683" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1595798298683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595798298683" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1595798298683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595798298683" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1595798298683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595798298683" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1595800002915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595800002915" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1595971524225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595971524225" />
+    <state x="314" y="61" width="737" height="606" key="find.popup" timestamp="1595795937035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="61" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1595795937035" />
+    <state x="65" y="0" key="new project wizard" timestamp="1595883929010">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595883929010" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+    id 'checkstyle'
+    id 'pmd'
+}
+
+group 'org.edu'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+ext {
+    checkstyleVersion = '6.16.1'
+}
+
+dependencies {
+    testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.6.2'
+
+}
+checkstyle {
+    toolVersion = checkstyleVersion
+    config = rootProject.resources.text.fromFile('config/checkstyle/checkstyle.xml')
+    ignoreFailures = false
+}
+pmd {
+    ignoreFailures = true
+    pmdTest.enabled = true
+}
+
+tasks.withType(Pmd) {
+    reports {
+        xml.enabled = false
+        html.enabled = true
+    }
+}
