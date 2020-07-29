@@ -1,13 +1,13 @@
 # DefensiveCodingInJava
 
 Utility library:
-Apache Commons
+Apache Commons,
 Google Guava
 
 Testing library:
-Hamcrest
+Hamcrest,
 Assertj
 
 Static analysis tools(SAT):
-PMD
+PMD,
 CheckStyle
